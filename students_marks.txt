@@ -1,0 +1,6 @@
+register_num exam_mark assignment_mark 
+s101                 95                 85 
+s102                 88                 80 
+s103                 79.5               82 
+s104                 80                 90 
+s105                 75                 87
