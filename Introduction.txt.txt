@@ -1,0 +1,6 @@
+Introduction
+
+This assignment is part of my AI internship program, designed to build strong foundations in Python programming. Through these exercises, I explored essential programming concepts used in real-world AI and data projects — including date handling, mathematical logic, file processing, NumPy structures, and API-based data extraction. Each task helped strengthen my logical thinking, clean coding practices, and problem-solving skills.
+
+From building an age calculator to generating prime numbers, processing student performance data, and finally integrating real-time weather APIs, this assignment allowed me to apply Python to practical scenarios. Completing these tasks also improved my understanding of data workflows, API requests, debugging, and Python's versatility.
+
