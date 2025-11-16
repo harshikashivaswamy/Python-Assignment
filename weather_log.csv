@@ -1,0 +1,4 @@
+Timestamp,City,Temperature(°C),Humidity(%),Wind Speed(m/s),Description 
+2025-11-16 19:44:20,chennai,26.69,80,4.12,mist 
+2025-11-16 19:45:39,palakkad,24.5,85,2.5,broken clouds 
+2025-11-17 00:10:34,london,8.14,70,2.57,overcast clouds 
