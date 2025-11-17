@@ -7,9 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1p1C7Xk_9M9139Jx0y9bvvcam7tcQ8ZOX
 """
 
-# Exercise 3: Student Marks Processor
-# Reads marks from file, computes total, assigns grade,
-# stores structured NumPy array, sorts results, writes output, and prints stats.
+📌 INTRODUCTION
+
+Exercise 3 focuses on reading data from a file, performing weighted calculations, assigning grades, storing results using NumPy, sorting data, and writing final output to a file. This task simulates real-world data-processing scenarios often used in AI, analytics, and academic evaluation systems. It emphasizes file handling, array manipulation, error handling, and structured data processing.
+
 
 import numpy as np
 
@@ -71,3 +72,7 @@ def process_student_marks():
         print("Error occurred:", e)
 
 process_student_marks()
+
+📌 CONCLUSION
+
+Through this exercise, I gained experience working with files, organizing data into structured formats, and performing computations programmatically. Sorting and analyzing the data helped me understand how NumPy improves efficiency. Overall, this exercise strengthened my understanding of data pipelines, automation, and statistical processing in Python.
