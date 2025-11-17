@@ -7,6 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1inJ5aSbxzCM0ijDBSFcsPYVp3OFU5NBC
 """
 
+📌 INTRODUCTION
+
+Exercise 4 introduces real-time data fetching using APIs. By using the OpenWeatherMap API, the task involves retrieving weather information, interpreting temperature, humidity, and wind speed, generating meaningful insights, and storing results in a CSV file. This exercise helps build essential skills in API communication, JSON handling, conditional analysis, and network error management.
+
+
 import requests
 import csv
 
@@ -71,3 +76,7 @@ def log_weather(city, filename):
 # Run function
 city_name = input("Enter city name: ")
 log_weather(city_name, "weather_log.csv")
+
+📌 CONCLUSION
+
+Completing this exercise enhanced my understanding of APIs, JSON parsing, and real-time data analysis. I learned how to make secure API calls, interpret weather parameters, and store structured output for later use. This task closely resembles real-world data engineering workflows and improved my confidence in integrating external services with Python applications.
